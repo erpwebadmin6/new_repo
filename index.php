@@ -19,5 +19,6 @@
 include("Config/Config.php");       	   //Config  
 include("routes.php");                 //Controller
 echo 'sample';
+echo 'new added';
 ?>
 
