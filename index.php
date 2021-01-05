@@ -20,10 +20,7 @@ include("Config/Config.php");       	   //Config
 include("routes.php");                 //Controller
 echo 'sample';
 echo 'new added';
-<<<<<<< HEAD
-echo 'testing'
-=======
 echo 'JA: DEV TEST1'
->>>>>>> JA_DEV
+
 ?>
 
