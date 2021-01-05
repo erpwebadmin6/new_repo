@@ -22,5 +22,6 @@ echo 'sample';
 echo 'new added';
 echo 'JA: DEV TEST1';
 echo 'sample git';
+echo 'sample git';
 ?>
 
