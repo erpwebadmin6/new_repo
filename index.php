@@ -21,6 +21,6 @@ include("routes.php");                 //Controller
 echo 'sample';
 echo 'new added';
 echo 'JA: DEV TEST1';
-echo 'JA: DEV TEST1';
+echo 'JA: DEV TEST12';
 ?>
 
