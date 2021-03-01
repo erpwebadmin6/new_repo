@@ -25,6 +25,10 @@ echo 'JA: DEV TEST12';
 echo 'New Commit';
 echo 'New commit 1';
 echo 'TEST 1 03/02/2021';
+<<<<<<< HEAD
 echo 'JA_DEV';
+=======
+echo 'MASTER Commit 1';
+>>>>>>> master
 ?>
 
