@@ -26,5 +26,6 @@ echo 'New Commit';
 echo 'New commit 1';
 echo 'TEST 1 03/02/2021';
 echo 'MASTER Commit 1';
+echo 'MASTER Commit 2';
 ?>
 
