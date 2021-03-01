@@ -26,10 +26,15 @@ echo 'New Commit';
 echo 'New commit 1';
 echo 'TEST 1 03/02/2021';
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo 'MASTER Commit 1';
 echo 'MASTER Commit 2';
 =======
 echo 'JA_DEV';
 >>>>>>> ee232b5 (JA: DEV Commit)
+=======
+echo 'JA_DEV';
+echo 'MASTER Commit 1';
+>>>>>>> 1e1ca73 (JA: New commit 2)
 ?>
 
