@@ -31,5 +31,6 @@ echo 'MASTER Commit 2';
 echo 'JA_DEV';
 echo 'JA_DEV';
 echo 'MASTER Commit 1';
+echo 'MASTER Commit 2';
 ?>
 
